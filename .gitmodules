@@ -1,0 +1,3 @@
+[submodule "verilook_ros"]
+	path = verilook_ros
+	url = https://github.com/minhnh/verilook_ros.git

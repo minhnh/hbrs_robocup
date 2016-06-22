@@ -1,4 +1,0 @@
-string output_filename
----
-bool success
-sensor_msgs/RegionOfInterest face_position

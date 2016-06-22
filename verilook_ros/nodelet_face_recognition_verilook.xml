@@ -1,7 +1,0 @@
-<library path="lib/libface_recognition_verilook_nodelet">
-  <class name="verilook_ros/FaceRecognitionVerilookNodelet" type="verilook_ros::FaceRecognitionVerilookNodelet" base_class_type="nodelet::Nodelet">
-    <description>
-      Multi-threaded Nodelet that recognize faces using the Verilook SDK.
-    </description>
-  </class>
-</library>
